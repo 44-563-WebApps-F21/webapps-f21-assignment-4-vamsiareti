@@ -1,0 +1,21 @@
+.speech{
+    color:black; font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; size: 1.5em;
+}
+.stage-direction{
+    color:black; font-family: Georgia, 'Times New Roman', Times, serif; background-color: aquamarine; size: 1.8em;
+}
+.name{
+    color:black;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; size: 1.4em;
+}
+.stage-direction:hover{
+    color:red; background-color: tan;
+}
+.hester{
+    color:yellowgreen;
+}
+.lady_caroline{
+    color: violet;
+}
+.sir_john{
+    color: sienna;
+}
