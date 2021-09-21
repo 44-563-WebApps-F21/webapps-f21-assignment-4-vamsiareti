@@ -19,3 +19,9 @@
 .sir_john{
     color: rgb(255, 81, 0);
 }
+.table, th, td{
+    border: 1px solid rgb(0, 0, 0); color: rgb(255, 0, 0); text-align: center; padding: 01em; margin: 0em;
+}
+tr:nth-child(even){
+    background-color: rgb(221, 250, 189);
+}
